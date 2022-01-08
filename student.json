@@ -1,0 +1,25 @@
+[ {
+  "firstName" : "Gabriel",
+  "lastName" : "Suteica",
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ],
+  "id" : 1,
+  "numberOfCourses" : 0,
+  "remainingCredits" : 30
+}, {
+  "firstName" : "Octavian",
+  "lastName" : "Motoc",
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ],
+  "id" : 2,
+  "numberOfCourses" : 0,
+  "remainingCredits" : 30
+}, {
+  "firstName" : "Dombos David",
+  "lastName" : "-",
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ],
+  "id" : 3,
+  "numberOfCourses" : 0,
+  "remainingCredits" : 30
+} ]

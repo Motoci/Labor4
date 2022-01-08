@@ -1,0 +1,11 @@
+[ {
+  "firstName" : "Anca",
+  "lastName" : "Barbu",
+  "courses" : [ ],
+  "id" : 1
+}, {
+  "firstName" : "Adelina",
+  "lastName" : "Graura",
+  "courses" : [ ],
+  "id" : 2
+} ]

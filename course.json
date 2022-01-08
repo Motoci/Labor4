@@ -1,0 +1,28 @@
+[ {
+  "title" : "Romana",
+  "credits" : 4,
+  "teacher" : 2,
+  "maxStudents" : 12,
+  "studentsEnrolled" : [ ],
+  "id" : 1,
+  "nrAvailablePlaces" : 12,
+  "free" : true
+}, {
+  "title" : "English",
+  "credits" : 6,
+  "teacher" : 1,
+  "maxStudents" : 14,
+  "studentsEnrolled" : [ ],
+  "id" : 2,
+  "nrAvailablePlaces" : 14,
+  "free" : true
+}, {
+  "title" : "testDelete",
+  "credits" : 13,
+  "teacher" : 2,
+  "maxStudents" : 13,
+  "studentsEnrolled" : [ ],
+  "id" : 0,
+  "nrAvailablePlaces" : 13,
+  "free" : true
+} ]
